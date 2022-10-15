@@ -1,4 +1,6 @@
 welcome to GIT
 This is a sample file for practice
-this is in feature 1
+this is in feature 
+
+By mamatha
 
